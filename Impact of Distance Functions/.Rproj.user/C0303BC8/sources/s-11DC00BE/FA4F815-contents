@@ -1,0 +1,6 @@
+install.packages("philentropy")
+library("UBL")
+df <- read.table(file="C:/Users/Mahin/Google Drive/Workspace/Impact of Distance Functions/Abalone/abalone.txt",header=T, sep=",")
+print(df)
+dist1 <- distances(9,df, "HVDM")
+print(dist1)
