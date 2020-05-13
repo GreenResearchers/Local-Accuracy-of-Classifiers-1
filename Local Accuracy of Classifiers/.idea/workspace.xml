@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59971703-0665-407c-9146-8463bf047b97" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Project/Data Set_Abalone/analysis.txtfilename" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Abalone/abalone.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Abalone/abalone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BalanaceScale/balance-scale.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BalanaceScale/balanceScale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/breastcancer.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/breastcancer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/breast-w.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/breastw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set CMC/CMC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set CMC/cmc.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Car/car.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Car/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set ClevelandHeartDisease/cleveland.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set ClevelandHeartDisease/cleveland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Credit_g/credit.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Credit_g/creditg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ecoli/ecoli.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ecoli/ecoli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Glass/glass.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Glass/glass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/haberman.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/haberman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ionosphere/ionosphere.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ionosphere/ionosphere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set LabrasMovement/libras.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set LabrasMovement/libras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Satimage/satimage.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Satimage/satimage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SeismicBumps/seismic.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SeismicBumps/seismicBumps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SolarFlare/solar.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SolarFlare/solarFlare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Spectometer/spectometer.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Spectometer/spectometer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Transfusion/transfusion.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Transfusion/transfusion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Vehicle/vehicle.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Vehicle/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Yeast/yeast.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Yeast/yeast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/HVDM/All_attribute_value_probability_calculation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/HVDM/Distance_nominal_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/HVDM/Distance_numeric_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/HVDM/HVDM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/HVDM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/fuzzyMembershipCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/subCategoryFinder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/AUC/AUC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/AUC/analysis_AUC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/Fmeasure/Fmeasure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/Gmean/Gmean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/Gmean/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Fuzzy Membership/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/HVDM_Metric/HVDM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Membership/All_attribute_value_probability_calculation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Membership/Distance_nominan_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Membership/Distance_numeric_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Membership/HVDM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/Abalone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/SelectiveOversampling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/SelectiveOversampling_CMC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/SelectiveOversampling_seismicBumps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/SelectiveOversampling_solarFlare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/abalone.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/breast-cancer-wisconsin.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/cmc.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/seismic.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Oversampling/solar.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Local Accuracy of Classifiers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Local Accuracy of Classifiers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Data Set_Abalone/HVDM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Data Set_Abalone/HVDM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1513782057">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="52" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.109" value="1" />
+          <entry key="project.open.time.120" value="1" />
+          <entry key="project.open.time.134" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="4" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.182" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.48" value="2" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="90" />
+          <entry key="Python" value="23194" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="96" />
+          <entry key="Python" value="377" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PKG-INFO" value="1" />
+          <entry key="analysis_AUC" value="2" />
+          <entry key="analysis_AUCfilename" value="3" />
+          <entry key="analysis_Fmeasurefilename" value="4" />
+          <entry key="analysis_membership2filename2" value="2" />
+          <entry key="analysis_membership3filename3" value="2" />
+          <entry key="analysis_membershipfilename" value="1" />
+          <entry key="data" value="44" />
+          <entry key="libras" value="1" />
+          <entry key="py" value="377" />
+          <entry key="txt" value="30" />
+          <entry key="txtfilename" value="6" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="analysis_AUC" value="1" />
+          <entry key="analysis_AUCfilename" value="3" />
+          <entry key="analysis_membership2filename2" value="2" />
+          <entry key="analysis_membership3filename3" value="2" />
+          <entry key="analysis_membershipfilename" value="47" />
+          <entry key="data" value="6" />
+          <entry key="py" value="23194" />
+          <entry key="txtfilename" value="29" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/subCategoryFinder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-525">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1561303516693" expanded="true" signature="3314:3328" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/fuzzyMembershipCalculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding>
+                <marker date="1559554833228" expanded="true" signature="1129:1133" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>d</find>
+      <find>v</find>
+      <find>np_version</find>
+      <find>?</find>
+      <find>11</find>
+      <find />
+      <find>print</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers</dir>
+      <dir>C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Fuzzy Membership\SelectionOfk\Gmean</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Project/Membership/All_attribute_value_probability_calculation.py" />
+        <option value="$PROJECT_DIR$/Project/Membership/Distance_nominan_attributes.py" />
+        <option value="$PROJECT_DIR$/Project/Membership/Distance_numeric_attributes.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/__init__.py" />
+        <option value="$PROJECT_DIR$/Project/Membership/HVDM.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/HVDM.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Distance_nominal_attributes.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/abalone.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/HVDM/HVDM.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ecoli/ecoli.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Spectometer/spectometer.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set LabrasMovement/libras.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Satimage/satimage.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Vehicle/vehicle.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ionosphere/ionosphere.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/haberman.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set ClevelandHeartDisease/cleveland.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Glass/glass.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Transfusion/transfusion.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/breastcancer.data" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/Gmean/Gmean.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/AUC/analysis_AUC" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/AUC/AUC.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/AUC/analysis_AUCfilename" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/Gmean/analysis.txtfilename" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/SelectionOfk/Fmeasure/Fmeasure.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Satimage/satimage.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/analysis_membership2filename2" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/analysis_membershipfilename" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/analysis_membership3filename3" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/fuzzyMembershipCalculator.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/haberman.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/subCategoryFinder.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BalanaceScale/balanceScale.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/breastw.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/breastcancer.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Car/car.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set ClevelandHeartDisease/cleveland.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set CMC/CMC.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Credit_g/creditg.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ecoli/ecoli.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Glass/glass.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ionosphere/ionosphere.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set LabrasMovement/libras.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Yeast/yeast.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Vehicle/vehicle.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Transfusion/transfusion.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Spectometer/spectometer.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SolarFlare/solarFlare.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SeismicBumps/seismicBumps.py" />
+        <option value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Abalone/abalone.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Local Accuracy of Classifiers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local Accuracy of Classifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local Accuracy of Classifiers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local Accuracy of Classifiers" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local Accuracy of Classifiers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local Accuracy of Classifiers" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Fuzzy Membership" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local Accuracy of Classifiers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local Accuracy of Classifiers" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Fuzzy Membership" type="462c0819:PsiDirectoryNode" />
+              <item name="Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local Accuracy of Classifiers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local Accuracy of Classifiers" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Fuzzy Membership" type="462c0819:PsiDirectoryNode" />
+              <item name="MembershipCalculation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Local Accuracy of Classifiers" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Local Accuracy of Classifiers" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Fuzzy Membership\Analysis\Data Set Breast_w" />
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Fuzzy Membership\Analysis\Data Set Abalone" />
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Fuzzy Membership" />
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Data Set_Car" />
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Data Set_CMC" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Fuzzy Membership\Analysis\Data Set Yeast" />
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Fuzzy Membership\Analysis\Data Set SolarFlare" />
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Fuzzy Membership\Analysis\Data Set CMC" />
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Fuzzy Membership\Analysis\Data Set Car" />
+      <recent name="C:\Users\Mahin\Google Drive\Workspace\Local Accuracy of Classifiers\Project\Data Set_breast-w" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.abalone">
+    <configuration name="abalone" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local Accuracy of Classifiers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Abalone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Abalone/abalone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seismicBumps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local Accuracy of Classifiers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SeismicBumps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SeismicBumps/seismicBumps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solarFlare" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local Accuracy of Classifiers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SolarFlare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SolarFlare/solarFlare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spectometer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local Accuracy of Classifiers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Spectometer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Spectometer/spectometer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transfusion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local Accuracy of Classifiers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Transfusion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Transfusion/transfusion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.transfusion" />
+      <item itemvalue="Python.spectometer" />
+      <item itemvalue="Python.solarFlare" />
+      <item itemvalue="Python.seismicBumps" />
+      <item itemvalue="Python.abalone" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.abalone" />
+        <item itemvalue="Python.seismicBumps" />
+        <item itemvalue="Python.solarFlare" />
+        <item itemvalue="Python.spectometer" />
+        <item itemvalue="Python.transfusion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59971703-0665-407c-9146-8463bf047b97" name="Default" comment="" />
+      <created>1528820159369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528820159369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2313988" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926794" weight="0.31298906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50073206" side_tool="true" weight="0.3290938" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2313988" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926794" visible="true" weight="0.31298906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50073206" side_tool="true" weight="0.3290938" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Project/Data Set_Solar_flare/HVDM.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Project/Data Set_Abalone/HVDM.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HVDM/HVDM.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ecoli/ecoli.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/fuzzyMembershipCalculator.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Project/Data Set_breast-w/breast-w.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/breast-w.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11557" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/analysis_membershipfilename">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/haberman.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="306" lean-forward="true" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/borderline.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/outlier.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/haberman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/rare.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Haberman/safe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BalanaceScale/borderline.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/analysis_membership2filename2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/analysis_membership3filename3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BalanaceScale/outlier.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BalanaceScale/rare.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BalanaceScale/safe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/breastcancer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="54" column="172" selection-start-line="54" selection-start-column="172" selection-end-line="54" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/safe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/rare.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/outlier.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/borderline.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/borderline.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/outlier.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/rare.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BreastCancer/safe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Breast_w/breastw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="67" column="168" selection-start-line="67" selection-start-column="168" selection-end-line="67" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/subCategoryFinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1561303516693" expanded="true" signature="3314:3328" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Car/borderline.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Car/outlier.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Car/rare.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Car/safe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Car/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="74" column="163" selection-start-line="74" selection-start-column="163" selection-end-line="74" selection-end-column="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set CMC/CMC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="57" column="163" selection-start-line="57" selection-start-column="163" selection-end-line="57" selection-end-column="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set ClevelandHeartDisease/cleveland.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="74" column="181" selection-start-line="74" selection-start-column="181" selection-end-line="74" selection-end-column="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ecoli/ecoli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="56" column="165" selection-start-line="56" selection-start-column="165" selection-end-line="56" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Credit_g/creditg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="92" column="168" selection-start-line="92" selection-start-column="168" selection-end-line="92" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set BalanaceScale/balanceScale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="57" column="74" lean-forward="true" selection-start-line="57" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set LabrasMovement/libras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Ionosphere/ionosphere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="66" column="170" selection-start-line="66" selection-start-column="170" selection-end-line="66" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Glass/glass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="64" column="165" selection-start-line="64" selection-start-column="165" selection-end-line="64" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Yeast/yeast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="57" column="165" selection-start-line="57" selection-start-column="165" selection-end-line="57" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Spectometer/spectometer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="91" column="171" selection-start-line="91" selection-start-column="171" selection-end-line="91" selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Transfusion/transfusion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="53" column="171" selection-start-line="53" selection-start-column="171" selection-end-line="53" selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Vehicle/vehicle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="64" column="167" selection-start-line="64" selection-start-column="167" selection-end-line="64" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Abalone/abalone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="80" column="167" selection-start-line="80" selection-start-column="167" selection-end-line="80" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SeismicBumps/seismicBumps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="71" column="172" selection-start-line="71" selection-start-column="172" selection-end-line="71" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set SolarFlare/solarFlare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Credit_g/safe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Credit_g/borderline.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Credit_g/outlier.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/Analysis/Data Set Credit_g/rare.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3023" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Fuzzy Membership/MembershipCalculation/fuzzyMembershipCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <marker date="1559554833228" expanded="true" signature="1129:1133" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

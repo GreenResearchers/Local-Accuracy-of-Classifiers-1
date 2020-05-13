@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533393208437.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4481144F",
+    "lastKnownWriteTime" : 1533393265,
+    "last_content_update" : 1533393265677,
+    "path" : "C:/Users/Mahin/Google Drive/Workspace/Local Accuracy of Classifiers/Analysis Using R/Abalone/Abalone_HVDM_analysis.R",
+    "project_path" : "Abalone/Abalone_HVDM_analysis.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

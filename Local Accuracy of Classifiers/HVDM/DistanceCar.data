@@ -1,0 +1,18 @@
+vhighbuying: vhighbuying 0.0 highbuying 0.0 medbuying 0.0 lowbuying 0.0
+highbuying: vhighbuying 0.0 highbuying 0.0 medbuying 0.0 lowbuying 0.0
+medbuying: vhighbuying 0.0 highbuying 0.0 medbuying 0.0 lowbuying 0.0
+lowbuying: vhighbuying 0.0 highbuying 0.0 medbuying 0.0 lowbuying 0.0
+vhighmaint: vhighmaint 0.0 highmaint 0.0 medmaint 0.0 lowmaint 0.0
+highmaint: vhighmaint 0.0 highmaint 0.0 medmaint 0.0 lowmaint 0.0
+medmaint: vhighmaint 0.0 highmaint 0.0 medmaint 0.0 lowmaint 0.0
+lowmaint: vhighmaint 0.0 highmaint 0.0 medmaint 0.0 lowmaint 0.0
+2doors: 2doors 0.0 3doors 0.0 4doors 0.0 5moredoors 0.0
+3doors: 2doors 0.0 3doors 0.0 4doors 0.0 5moredoors 0.0
+4doors: 2doors 0.0 3doors 0.0 4doors 0.0 5moredoors 0.0
+5moredoors: 2doors 0.0 3doors 0.0 4doors 0.0 5moredoors 0.0
+2persons: 2persons 0.0 4persons 0.0 morepersons 0.0
+4persons: 2persons 0.0 4persons 0.0 morepersons 0.0
+morepersons: 2persons 0.0 4persons 0.0 morepersons 0.0
+smalllug_boot: smalllug_boot 0.0 medlug_boot 0.0 biglug_boot 0.0
+medlug_boot: smalllug_boot 0.0 medlug_boot 0.0 biglug_boot 0.0
+biglug_boot: smalllug_boot 0.0 medlug_boot 0.0 biglug_boot 0.0

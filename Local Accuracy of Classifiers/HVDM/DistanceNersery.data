@@ -1,0 +1,22 @@
+usual: usual 0.0 pretentious 0.0 great_pret 0.0
+pretentious: usual 0.0 pretentious 0.0 great_pret 0.0
+great_pret: usual 0.0 pretentious 0.0 great_pret 0.0
+proper: proper 0.0 less_proper 0.0 improper 0.0 critical 0.39 very_crit 0.0
+less_proper: proper 0.0 less_proper 0.0 improper 0.0 critical 0.39 very_crit 0.0
+improper: proper 0.0 less_proper 0.0 improper 0.0 critical 0.39 very_crit 0.0
+critical: convenient 0.06 less_conv 0.39 critical 0.0
+very_crit: proper 0.0 less_proper 0.0 improper 0.0 critical 0.39 very_crit 0.0
+complete: complete 0.0 completed 0.0 incomplete 0.0 foster 0.0
+completed: complete 0.0 completed 0.0 incomplete 0.0 foster 0.0
+incomplete: complete 0.0 completed 0.0 incomplete 0.0 foster 0.0
+foster: complete 0.0 completed 0.0 incomplete 0.0 foster 0.0
+1: 1 0.0 2 0.0 3 0.0 more 0.0
+2: 1 0.0 2 0.0 3 0.0 more 0.0
+3: 1 0.0 2 0.0 3 0.0 more 0.0
+more: 1 0.0 2 0.0 3 0.0 more 0.0
+convenient: convenient 0.0 inconv 0.33
+less_conv: convenient 0.33 less_conv 0.0 critical 0.39
+inconv: convenient 0.33 inconv 0.0
+nonprob: nonprob 0.0 slightly_prob 0.0 problematic 0.0
+slightly_prob: nonprob 0.0 slightly_prob 0.0 problematic 0.0
+problematic: nonprob 0.0 slightly_prob 0.0 problematic 0.0
